@@ -1,0 +1,8 @@
+{
+  "name": "@lucastzmo/random-value",
+  "version": "1.0.0",
+  "description": "A small lib of return values random.",
+  "main": "index.js",
+  "author": "Lucas Tomkiel",
+  "license": "MIT"
+}
